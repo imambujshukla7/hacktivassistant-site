@@ -1,6 +1,6 @@
 # HacktivAssistant Website
 
-Welcome to the official website of **HacktivAssistant**! Visit the live site at [hacktivassistant.site](https://hacktivassistant.site).
+Welcome to the official website of **HacktivAssistant**! The HacktivAssistant site is crafted using the Astro framework with Tailwind CSS styling. The technical documents and tutorials guide users to seamlessly download the AI-powered desktop assistant application. Visit the live site at [hacktivassistant.site](https://hacktivassistant.site).
 
 ## Overview
 
